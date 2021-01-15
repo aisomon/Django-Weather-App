@@ -1,1 +1,1 @@
-# Weather API using Django
+# Django Weather App using API
